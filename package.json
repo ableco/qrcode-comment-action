@@ -23,7 +23,7 @@
     "qrcode-generator": "^1.4.4"
   },
   "devDependencies": {
-    "@types/node": "^17.0.17",
+    "@types/node": "^18.0.1",
     "@vercel/ncc": "^0.33.3",
     "prettier": "^2.5.1",
     "typescript": "^4.5.5"
